@@ -1,0 +1,20 @@
+.app {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    height: 100vh;
+    background: #121422;
+    color: #9f44a4;
+}
+
+img {
+    max-width: 300px;
+    max-height: 350px;
+    width: auto;
+    height: auto;
+    border-radius: 30px;
+
+}
